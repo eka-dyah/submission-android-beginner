@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Equiphy</string>
+    <string name="welcome_to_equiphy">Welcome to Equiphy!</string>
+    <string name="list_of_equipment">List of Equipment</string>
+    <string name="exit">Exit</string>
+    <string name="card_view">Card View</string>
+    <string name="name_mine">Dyah Eka Lestari</string>
+    <string name="contact">Contact:</string>
+    <string name="email_mine">eka.dyah1205@gmail.com</string>
+    <string name="tipe">Tipe: </string>
+    <string name="about">About</string>
+    <string name="list">List</string>
+</resources>
